@@ -13,7 +13,7 @@ Projeto para avaliação técnica de candidatos à vaga de AngularJS
 
 * Utilizar:
   - AngularJS 1.5
-  - Bootstrap ou Material Design ou Material Design Light
+  - Bootstrap ou Material Design ou Material Design Lite
   - Sass ou Less
 
 * Enviar o código desenvolvido como PR para este repositório.
