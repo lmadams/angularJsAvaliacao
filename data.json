@@ -1,0 +1,20 @@
+[
+   {
+      "id":1,
+      "Nome":"José Roberto da Silva",
+      "Email":"joserobertosilva@gmail.com",
+      "Estado":"MG"
+   },
+   {
+      "id":2,
+      "Nome":"Maria da Silva",
+      "Email":"mariasilva@gmail.com",
+      "Estado":"PR"
+   },
+   {
+      "id":3,
+      "Nome":"João José da Silva",
+      "Email":"jjsilva@gmail.com",
+      "Estado":"SP"
+   }
+]
