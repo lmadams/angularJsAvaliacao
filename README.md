@@ -1,6 +1,6 @@
-# angularJsAvaliacao
+# reactAvaliacao
 
-Projeto para avaliação técnica de candidatos à vaga de AngularJS
+Projeto para avaliação técnica de candidatos à vaga de desenvolvimento Front-End
 
 ## Requisitos:
 
