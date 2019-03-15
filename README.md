@@ -12,9 +12,10 @@ Projeto para avaliação técnica de candidatos à vaga de AngularJS
 * Excluir item da lista com confirmação
 
 * Utilizar:
-  - AngularJS 1.5
+  - React
   - Bootstrap ou Material Design ou Material Design Lite
   - Sass ou Less
+  - Ler dados iniciais do arquivo data.json
 
 * Enviar o código desenvolvido como PR para este repositório.
 
