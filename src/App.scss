@@ -1,0 +1,46 @@
+body {
+  background-color: lightgray;
+
+  .conteudo-container {
+    width: 1000px;
+    margin: 20px auto auto;
+  }
+}
+
+.toolbar-usuarios {
+  display: flex;
+  justify-content: space-between;
+
+  div {
+    display: flex;
+    align-items: center;
+
+    span {
+      margin-right: 8px;
+    }
+  }
+}
+
+.loading-container {
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  top: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.54);
+}
+
+form {
+  padding: 14px;
+}
+
+.row {
+  display: flex;
+
+  .input-form {
+    flex: auto;
+  }
+}

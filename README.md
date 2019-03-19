@@ -1,21 +1,20 @@
-# reactAvaliacao
 
-Projeto para avaliação técnica de candidatos à vaga de desenvolvimento Front-End
+## Available Scripts
 
-## Requisitos:
+Para instalar as dependências do projeto:
 
-* Criar uma lista ordenável e com filtro com as seguinte colunas:
-    Nome, Email, Estado.
-    
-* Criar formulário de inclusão de registros na lista
-* Criar formalário para alteração de item na lista
-* Excluir item da lista com confirmação
+### `npm install`
 
-* Utilizar:
-  - React
-  - Bootstrap ou Material Design ou Material Design Lite
-  - Sass ou Less
-  - Ler dados iniciais do arquivo data.json
 
-* Enviar o código desenvolvido como PR para este repositório.
+-----
+Obs: existe a dependências do JSON-SERVER (cria API para o data.json)... a mesma esta no package já configurada.
 
+### `npm run json-server`
+
+Executa uma api na [http://localhost:8080](http://localhost:8080) apontando para o arquivo data.json.
+
+-----
+
+### `npm start`
+
+Executa a camada visual na [http://localhost:3000](http://localhost:3000)
